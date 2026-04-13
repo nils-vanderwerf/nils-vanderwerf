@@ -1,8 +1,8 @@
 🚀 Full stack engineer with 4 years of production experience in Ruby on Rails and PostgreSQL<br>
-⚡ Currently building with React, TypeScript, and Next.js
-🤖 Daily user of Claude AI and GitHub Copilot exploring the Claude API
-🌏 Based in Sydney, Australia
-📫 n.vanderw.92@gmail.com
+⚡ Currently building with React, TypeScript, and Next.js<br>
+🤖 Daily user of Claude AI and GitHub Copilot exploring the Claude API<br>
+🌏 Based in Sydney, Australia<br>
+📫 n.vanderw.92@gmail.com<br>
 
 <!---
 nils-vanderwerf/nils-vanderwerf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
