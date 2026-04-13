@@ -1,6 +1,6 @@
-🚀 Full stack engineer with 4 years of production experience in Ruby on Rails and PostgreSQL
+🚀 Full stack engineer with 4 years of production experience in Ruby on Rails and PostgreSQL<br>
 ⚡ Currently building with React, TypeScript, and Next.js
-🤖 Daily user of Claude AI and GitHub Copilot — exploring the Claude API
+🤖 Daily user of Claude AI and GitHub Copilot exploring the Claude API
 🌏 Based in Sydney, Australia
 📫 n.vanderw.92@gmail.com
 
